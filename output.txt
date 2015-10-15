@@ -1,0 +1,30 @@
+Added 5 to queue List1
+Added 4 to queue List2
+Added 6 to queue List3
+Added 10 to queue List1
+Added 20 to queue List2
+Added 25 to queue List3
+Added 15 to queue List1
+Added 28 to queue List2
+Added 30 to queue List3
+Added 29 to queue List1
+[ 5 10 15 29 ]
+[ 4 20 28 ]
+[ 6 25 30 ]
+Deleted 15
+Deleted 20
+[ 5 10 29 ]
+[ 4 28 ]
+[ 6 25 30 ]
+Removed 4
+Removed 5
+Removed 6
+Removed 10
+Removed 25
+Removed 28
+Removed 29
+Removed 30
+Remove called on empty queues
+[ ]
+[ ]
+[ ]

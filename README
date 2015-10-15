@@ -1,0 +1,12 @@
+I have made the following assumptions:
+
+I started out by creating a generic Type parameter for the items in the Linked List, but since the question says only Integers were to be inserted, my comparisions are all made based on the assumption that the values of the generic type are always integer. So the code will work for only integers.
+
+So, I have the following java files:
+
+1. Type.java - for the generic type
+2. LinkedListFunctions.java - This is an interface for the various functions that correspond to operations over the linked lists.
+3. ListItem.java - This is the class that represents each node of the list.
+4. LinkedList.java - This implements my custom LinkedList. Its a doubly linked list.
+5. ThreeLists.java - This class implements the problem statement(add,cancel,remove and print from 3 lists)
+6. Project2Main.java - This is the class that holds the main function and accepts input from input.txt and sends output to output.txt
